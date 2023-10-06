@@ -2,7 +2,7 @@
 
 This is an e-commerce app that allows users to browse products and redirect them to the official store to purchase them. The app is built with Next.js, Prisma, Zustand and Tailwind CSS.
 
-<img width="1865" alt="Screenshot 2023-10-07 at 00 02 45" src="https://github.com/DariusLukasukas/goods/assets/64962012/1a485d47-a070-4e1a-beec-6b5e3a36ccee">
+<img width="1865" alt="Screenshot 2023-10-07 at 00 02 45" src="https://github.com/DariusLukasukas/goods/assets/64962012/8b9203d4-de3d-48e2-9aae-a1a813222605">
 
 ## Features
 
